@@ -11,7 +11,7 @@ class AboutMe:
         self.education = "ITMO University"
         self.faculty = "Robotics and Artificial Intelligence"
         self.languages = ["Python", "Java"]
-        self.occupation = ["SM"]
+        self.occupation = ["AI Lab, ITMO"]
 
     def work(self):
         print(self.name + ", ready for new projects.")
